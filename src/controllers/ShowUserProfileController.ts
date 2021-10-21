@@ -15,4 +15,4 @@ class ShowUserProfileController {
   }
 }
 
-export { ShowUserProfileController };
+export { ShowUserProfileController }
